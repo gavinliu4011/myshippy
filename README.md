@@ -1,2 +1,2 @@
-# mymyshippy
+# myshippy
 学习
